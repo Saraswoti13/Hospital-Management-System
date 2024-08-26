@@ -1,0 +1,2 @@
+Sara Smith, ['B', '1', ' ', '2', '3', '4'],Weight loss,20,07012345678,John Smith
+Mike Jones, ['L', '2', ' ', '2', 'A', 'B'],Fever,37,07555551234,None
